@@ -1,0 +1,9 @@
+https://restcountries.eu/rest/v2/all          pays
+
+
+
+https://api.github.com/search/repositories?q=${query}     github
+
+
+
+https://jsonplaceholder.typicode.com/users           fakeapi

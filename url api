@@ -17,3 +17,8 @@ https://reqres.in/
 
 
 https://swapi.co/api/people/?page=9           free api  swapi       pour la pagination 
+
+
+
+
+https://swapi.co/api/people/?page=9       api with wrap data 

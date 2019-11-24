@@ -67,3 +67,6 @@ http://api.zippopotam.us/FR/75001       ville api
 
 
 https://www.tvmaze.com/api         api   movies
+
+
+https://api.npms.io/v2/search?q=scope:angular             npm api

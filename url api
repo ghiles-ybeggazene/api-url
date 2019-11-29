@@ -78,3 +78,9 @@ https://api.npms.io/v2/search?q=scope:angular              api  modules angular 
 api xml 
 
 http://quotes.rest/
+
+
+
+
+
+https://en.wikipedia.org/w/api.php?action=opensearch&search=${text}&limit=100&namespace=0&format=json&origin=*     search data from wikipedia 

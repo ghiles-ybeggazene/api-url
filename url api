@@ -80,6 +80,20 @@ api xml
 http://quotes.rest/
 
 
+weather   api  xml 
+
+https://samples.openweathermap.org/data/2.5/weather?q=London&mode=xml&appid=b6907d289e10d714a6e88b30761fae22
+
+
+
+
+weather     api     HTML
+https://samples.openweathermap.org/data/2.5/weather?q=London&mode=html&appid=b6907d289e10d714a6e88b30761fae22
+
+
+
+weather    api   json
+https://samples.openweathermap.org/data/2.5/weather?q=London&appid=b6907d289e10d714a6e88b30761fae22
 
 
 

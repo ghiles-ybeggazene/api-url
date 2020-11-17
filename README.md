@@ -1,12 +1,12 @@
 # api-url
 
- - api pays
-https://restcountries.eu/rest/v2/all         
+## api pays
+- https://restcountries.eu/rest/v2/all         
 
 
-##api github
+## api github
 - https://api.github.com/search/repositories?q=${query}  
--https://api.github.com/users/ghiles-ybeggazene
+- https://api.github.com/users/ghiles-ybeggazene
 
 
 

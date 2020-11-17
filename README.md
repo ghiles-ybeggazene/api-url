@@ -4,8 +4,10 @@
 https://restcountries.eu/rest/v2/all         
 
 
-- api github
-https://api.github.com/search/repositories?q=${query}     
+##api github
+- https://api.github.com/search/repositories?q=${query}  
+-https://api.github.com/users/ghiles-ybeggazene
+
 
 
 
